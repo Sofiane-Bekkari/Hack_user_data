@@ -1,0 +1,14 @@
+{
+  "name": "hack_user_data",
+  "version": "1.0.0",
+  "description": "Hack_user_data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofiane Bekkari",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
